@@ -1,0 +1,17 @@
+# Entornos virtuales
+venv/
+env/
+ENV/
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+checkpoints/
+*.pt
+*.pth
+data/
+.vscode/
+.DS_Store
+test.py
