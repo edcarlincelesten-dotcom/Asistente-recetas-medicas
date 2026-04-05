@@ -1,0 +1,36 @@
+{
+  "recetas": [
+    {
+      "imagen": "completada-prescripción-médica-en-blanco-32083637 .jpg",
+      "medicamentos": ["metoprolol", "dorzolamida", "cimetidina", "oxprenolol"],
+      "paciente": "John Smith",
+      "fecha": "09-11-12"
+    },
+    {
+      "imagen": "receta_difarma.jpg",
+      "medicamentos": ["cefpiracano", "oseltamivir", "paracetamol"],
+      "paciente": "Francisco Covalo Perez",
+      "fecha": "31-07-20"
+    },
+    {
+      "imagen": "descargar.jpg",
+      "medicamentos": ["amoxicilina", "ibuprofeno"],
+      "descripcion": "Amoxicilina e Ibuprofeno"
+    },
+
+    {
+      "imagen": "receta-medica.jpg",
+     "medicamentos": ["ibuprofeno"],
+     "paciente": "Manuel Hernández Soto",
+     "fecha": "29/10/2022"
+    },
+
+    {
+      "imagen": "receta-medica 2.jpg",
+    "medicamentos": ["ceftriaxona", "dexametasona", "otro"],
+    "paciente": "No especificado",
+    "fecha": "09/01/22",
+    "medico": "No especificado"
+    }
+  ]
+}
